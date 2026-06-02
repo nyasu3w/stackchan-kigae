@@ -1,7 +1,7 @@
 # stackchan-kigae
  stackchan着せ替え用型紙。
  模様の付いた紙に印刷して線に沿って切る、または、ファイルを編集して画像を線の下に配置、そして印刷して切る。
- 余計な線もあるけれど、そこは適当に取捨選択してください。また、まだ寸法の調整の予知はあります。
+ 余計な線もあるけれど、そこは適当に取捨選択してください。また、まだ寸法の調整の余地はあります。
 
 sheet for wears of stackchan.
 Print on patterned paper and cut along the lines, or print with your favorite picture.
