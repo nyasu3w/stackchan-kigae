@@ -10,6 +10,10 @@ There are some extra lines, but please pick and choose from them. Also, there ma
 ### 例
 <img width="1294" height="419" alt="kigae" src="https://github.com/user-attachments/assets/9c93fb01-f2c0-40b5-bbb6-4f03ea1be315" />
 
+### 適応
+M5stack社の stackchan向けです。
+https://github.com/m5stack/M5_Hardware/tree/master/Products/K151_StackChan/Structures
+
 # Files
 - stackchan-l.odg
   Original files for LibreOffice Draw
